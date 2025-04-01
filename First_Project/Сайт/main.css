@@ -1,0 +1,14 @@
+.description {
+    color: darkslateblue;
+    font-family: "Lucida Sans";
+    font-size: 20px;
+}
+.description:hover{
+    color:red
+}
+
+#material {
+    color: dimgrey;
+    font-family: "Lucida Sans";
+    font-size: 15px;
+}
